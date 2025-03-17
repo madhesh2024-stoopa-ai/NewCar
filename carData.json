@@ -1,17 +1,17 @@
 [
     {
         "name" : "Swift",
-        "contion" : "Good",
+        "condition" : "Good",
         "variant" : "Petrol & CNG"
     },
     {
         "name" : "Dzire",
-        "contion" : "Excellent",
+        "condition" : "Excellent",
         "variant" : "Petrol"
     },
     {
         "name" : "Alto",
-        "contion" : "Bad",
+        "condition" : "Bad",
         "variant" : "Diesel"
     }
 ]
