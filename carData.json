@@ -13,5 +13,10 @@
         "name" : "Alto",
         "condition" : "Bad",
         "variant" : "Diesel"
+    },
+    {
+        "name" : "ferrari",
+        "condition" : "good",
+        "variant" : "High level petrol"
     }
 ]
